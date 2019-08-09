@@ -1,4 +1,4 @@
  
  ****
  
-<img src="/计算机设计大赛.jpg" width="70%"; >   </img>
+<img src="/计算机设计大赛.jpg" width="70%"; ></img>
