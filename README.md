@@ -1,1 +1,1 @@
-<div margin:0 auto;>sdfsdf</div>
+<div margin:auto auto;>sdfsdf</div>
