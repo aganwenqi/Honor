@@ -1,1 +1,2 @@
-<div style=" text-align:center;" width:400px>sdfsdf</div>
+
+![计算机设计大赛](/计算机设计大赛.jpg)
