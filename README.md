@@ -31,9 +31,4 @@
 <b>2018全国大学生电子商务创新，创意，创业大赛二等奖</b>
 </div></br>
 
-<div "text-align: center;" align="center">
-<img src="/电子商务大赛.jpg" width="70%" align="center"></img></br>
-<b>2018全国大学生电子商务创新，创意，创业大赛二等奖</b>
-</div></br>
-
  ****
