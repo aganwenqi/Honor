@@ -31,4 +31,9 @@
 <b>2018全国大学生电子商务创新，创意，创业大赛二等奖</b>
 </div></br>
 
+<div "text-align: center;" align="center">
+<img src="/工匠精神.jpg" width="70%" align="center"></img></br>
+<b>2018学院工匠精神创新奖</b>
+</div></br>
+
  ****
