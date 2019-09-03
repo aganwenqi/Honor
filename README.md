@@ -32,7 +32,7 @@
 </div></br>
 
 <div "text-align: center;" align="center">
-<img src="/工匠精神.jpg" width="70%" align="center"></img></br>
+<img src="/工匠精神.png" width="70%" align="center"></img></br>
 <b>2018学院工匠精神创新奖</b>
 </div></br>
 
