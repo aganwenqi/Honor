@@ -26,4 +26,12 @@
 <b>2018学院工匠精神创新奖</b>
 </div></br>
 
+<div "text-align: center;" align="center">
+<img src="/01.png" width="50%" align="center"></img></br>
+<b>计算机软件著作权01</b>
+
+<div "text-align: center;" align="center">
+<img src="/02.png" width="50%" align="center"></img></br>
+<b>计算机软件著作权02</b>
+</div></br>
  ****
