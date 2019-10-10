@@ -17,18 +17,8 @@
 </div></br>
 
 <div "text-align: center;" align="center">
-<img src="/虚拟现实设计大赛.jpg" width="50%" align="center"></img></br>
-<b>“虚拟现实设计与制作”二等奖</b>
-</div></br>
-
-<div "text-align: center;" align="center">
 <img src="/中美青年创客大赛.jpg" width="50%" align="center"></img></br>
 <b>2018中美创客大赛深圳选拔赛三等奖</b>
-</div></br>
-
-<div "text-align: center;" align="center">
-<img src="/电子商务大赛.jpg" width="50%" align="center"></img></br>
-<b>2018全国大学生电子商务创新，创意，创业大赛二等奖</b>
 </div></br>
 
 <div "text-align: center;" align="center">
